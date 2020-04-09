@@ -17,9 +17,7 @@
 
 /* Begin row*/
 .row {
-  position: relative;
-  top: 0;
-  vertical-align: top;
+  margin: 20px 10px;
 }
 /* End row */
 
@@ -40,7 +38,7 @@
   background-color: green;
   font-size: 16px;
   font-weight: 700;
-  padding: 2px;
+  padding: 3px;
 }
 
 .product-block .bg-red {
